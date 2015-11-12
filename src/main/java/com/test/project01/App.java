@@ -2,7 +2,7 @@ package com.test.project01;
 
 /**
  * Hello world!!
- *
+ * 
  */
 public class App 
 {
